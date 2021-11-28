@@ -1,8 +1,18 @@
 
 body {
-  background-color: #E8ECEF;
+  background-color: 	#202020;
 }
 
+.bl{
+  color:white!important;
+}
+
+hr{
+  color:#fff!important;
+}
+.jumbotron{
+  background:	#202020!important;
+}
 .centered {
     padding-top: 200px;
     text-align: center;
@@ -13,4 +23,14 @@ body {
   font-size: 2rem;
   color: #fff;
   background-color: #000;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+
+a:hover{
+  color:white;
+  text-decoration: none;
 }
